@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bill_sell",
+            "request": "launch",
+            "mainClass": "Data.Bill_sell"
+        }
+    ]
+}

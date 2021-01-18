@@ -1,0 +1,7 @@
+﻿Tên tài khoản		Mật khẩu
+admin			admin
+thanhphong		123
+men			123
+thephong		123
+ngocminh1		1234
+chithanh23		2626
